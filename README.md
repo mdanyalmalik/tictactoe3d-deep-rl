@@ -1,6 +1,7 @@
 # Final Project Manual: Reinforcement Learning for Tic Tac Toe
 
 This is a course project submission for the course: Dynamic Programming and Reinforcement Learning (CS 6314) at Lahore University of Management Sciences.
+
 For further implementation details, please refer to the project report: [Click Here](https://docs.google.com/document/d/19uPODBf38i_3-0HeDUFifDaI1aVGRjPlba4dsLCFTJE/)
 
 ## Overview
@@ -34,25 +35,19 @@ For further implementation details, please refer to the project report: [Click H
 
 Evaluating the policies against a random opponent, our results were:
 
-Wins as X: 99.5%
-
-Draws as X: 0.5%
-
-Wins as O: 80.7%
-
-Draws as O: 19.3%
+- Wins as X: 99.5%
+- Draws as X: 0.5%
+- Wins as O: 80.7%
+- Draws as O: 19.3%
 
 ### Phase 2
 
 The results we obtained (against a random player) were:
 
-Wins as O: 54.7%
-
-Draws as O: 24.9%
-
-Wins as X: 28.2%
-
-Draws as X: 39.8%
+- Wins as O: 54.7%
+- Draws as O: 24.9%
+- Wins as X: 28.2%
+- Draws as X: 39.8%
 
 ### Phase 3
 
