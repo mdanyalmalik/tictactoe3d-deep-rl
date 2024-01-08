@@ -1,4 +1,4 @@
-# Final Project Manual: Reinforcement Learning for Tic Tac Toe
+# Final Project: Reinforcement Learning for Tic Tac Toe
 
 This is a course project submission for the course: Dynamic Programming and Reinforcement Learning (CS 6314) at Lahore University of Management Sciences.
 
