@@ -2,8 +2,6 @@
 
 This is a course project submission for the course: Dynamic Programming and Reinforcement Learning (CS 6314) at Lahore University of Management Sciences.
 
-For further implementation details, please refer to the project report: [Click Here](https://docs.google.com/document/d/19uPODBf38i_3-0HeDUFifDaI1aVGRjPlba4dsLCFTJE/)
-
 ## Overview
 
 ### Phase 1: 2D Tic Tac Toe (3x3 Grid) - Value Iteration Implementation
